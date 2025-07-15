@@ -1,1 +1,0 @@
-console.log('Badminton League App Loaded');
